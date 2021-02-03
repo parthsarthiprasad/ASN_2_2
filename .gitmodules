@@ -1,0 +1,6 @@
+[submodule "ASEAN_WEB"]
+	path = ASEAN_WEB
+	url = https://github.com/parthsarthiprasad/ASEAN_WEB
+[submodule "ASEAN_AIS"]
+	path = ASEAN_AIS
+	url = https://github.com/parthsarthiprasad/ASEAN_AIS
